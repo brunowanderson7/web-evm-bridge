@@ -39,7 +39,7 @@
       - Avalanche: <a class="text-blue-500 hover:underline" href="https://core.app/tools/testnet-faucet/?subnet=c&token=c">
         https://core.app/tools/testnet-faucet/?subnet=c&token=c <br/>
       </a>
-      - CHSD: <a class="text-blue-500 hover:underline" href="https://github.com/brunowanderson7/web-evm-bridge/issues">
+      - CHSD: <a class="text-blue-500 hover:underline" href="https://github.com/brunowanderson7/web-evm-bridge/issues/2">
         Create an issue with your public address <br/>
       </a>
     </p>
